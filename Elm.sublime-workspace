@@ -1,0 +1,610 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"perm",
+				"permission_id"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "hello_world/Hello.elm",
+			"settings":
+			{
+				"buffer_size": 85,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "elm-todomvc/Todo.elm",
+			"settings":
+			{
+				"buffer_size": 8747,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"P",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/msmith/Documents/vmm/app/controllers/locations_controller.rb",
+		"/Users/msmith/Documents/vmm/app/views/aurora/users/_user_location.haml",
+		"/Users/msmith/Documents/vmm/app/controllers/aurora/users_controller.rb",
+		"/Users/msmith/Documents/vmm/app/controllers/concerns/aurora/column_translations.rb",
+		"/Users/msmith/Documents/vmm/app/views/aurora/filter_locations/list.js.erb",
+		"/Users/msmith/Documents/vmm/app/views/campaigns/_form.haml",
+		"/Users/msmith/Documents/vmm/app/assets/stylesheets/controllers/campaigns.scss",
+		"/Users/msmith/Documents/vmm/app/controllers/campaigns_controller.rb",
+		"/Users/msmith/Documents/vmm/config/routes.rb",
+		"/Users/msmith/Documents/vmm/app/views/shared/_select2.haml",
+		"/Users/msmith/Documents/vmm/app/views/aurora/users/_advanced_search_form.haml",
+		"/Users/msmith/Documents/vmm/app/assets/javascripts/snippets/aurora/users.js",
+		"/Users/msmith/Documents/vmm/app/controllers/aurora/filter_locations_controller.rb",
+		"/Users/msmith/Documents/vmm/app/assets/javascripts/snippets/aurora/users/index.js",
+		"/Users/msmith/Documents/vmm/app/views/aurora/users/_search_form.haml",
+		"/Users/msmith/Documents/vmm/app/views/aurora/users/_user_create.haml",
+		"/Users/msmith/Documents/vmm/app/controllers/application_controller.rb",
+		"/Users/msmith/Documents/vmm/app/views/aurora/users/_user_details.haml",
+		"/Users/msmith/Documents/vmm/app/views/aurora/users/_form.haml",
+		"/Users/msmith/Documents/vmm/app/assets/javascripts/typeahead.js",
+		"/Users/msmith/Documents/vmm/app/views/campaigns/new.haml",
+		"/Users/msmith/Documents/vmm/app/views/boxing/apply_label.js.erb",
+		"/Users/msmith/Documents/vmm/app/controllers/regions_controller.rb",
+		"/Users/msmith/Documents/vmm/.git/MERGE_MSG",
+		"/Users/msmith/Documents/vmm/app/models/location.rb",
+		"/Users/msmith/Documents/vmm/app/helpers/locations_helper.rb",
+		"/Users/msmith/Documents/vmm/app/views/shared/_dashboard.haml",
+		"/Users/msmith/Documents/vmm/app/views/locations/_location_panel.html.erb",
+		"/Users/msmith/Documents/vmm/app/views/locations/_tab_planogram.html.erb",
+		"/Users/msmith/Documents/vmm/app/assets/stylesheets/gi_dashboard.scss",
+		"/Users/msmith/Documents/vmm/app/views/locations/_location_panel2.html.erb",
+		"/Users/msmith/Documents/vmm/app/views/locations/_tab_mult_planograms.html.erb",
+		"/Users/msmith/Documents/vmm/app/views/surveys/edit_album.html.erb",
+		"/Users/msmith/Documents/vmm/app/views/locations/floorplan.haml",
+		"/Users/msmith/Documents/vmm/app/views/locations/planograms_accordion.html.erb",
+		"/Users/msmith/Documents/vmm/app/models/user.rb",
+		"/Users/msmith/Documents/vmm/app/controllers/security/users_controller.rb",
+		"/Users/msmith/Documents/vmm/app/controllers/aurora/base_controller.rb",
+		"/Users/msmith/Documents/vmm/app/helpers/aurora/users_helper.rb",
+		"/Users/msmith/Documents/vmm/.git/rebase-merge/git-rebase-todo",
+		"/Users/msmith/Documents/vmm/app/views/security/users/edit.html.erb",
+		"/Users/msmith/Documents/vmm/app/views/security/users/list.html.erb",
+		"/Users/msmith/Documents/vmm/lib/floorplan_validator.rb",
+		"/Users/msmith/Documents/vmm/app/assets/javascripts/snippets/application.coffee",
+		"/Users/msmith/Documents/vmm/app/assets/javascripts/snippets/application.js",
+		"/Users/msmith/Documents/vmm/db/migrate/20160503180113_cricket_r12_to_r15_permissions.rb",
+		"/Users/msmith/Documents/vmm/app/views/boxing/index.haml",
+		"/Users/msmith/Documents/vmm/app/views/locations/_floorplan_sku_find.haml",
+		"/Users/msmith/Documents/vmm/app/views/boxing/_search.haml",
+		"/Users/msmith/Documents/vmm/app/assets/stylesheets/controllers/contents.scss",
+		"/Users/msmith/Documents/vmm/app/views/boxing/_list_table.haml",
+		"/Users/msmith/Documents/vmm/app/views/boxing/_list.haml",
+		"/Users/msmith/Documents/vmm/app/controllers/boxing_controller.rb",
+		"/Users/msmith/Documents/vmm/app/assets/javascripts/application.js",
+		"/Users/msmith/Documents/vmm/app/assets/javascripts/aurora/table.js.coffee",
+		"/Users/msmith/Documents/vmm/app/controllers/contents_controller.rb",
+		"/Users/msmith/Documents/vmm/app/assets/javascripts/snippets/shared/waiting_indicator.js.coffee",
+		"/Users/msmith/Documents/vmm/app/assets/javascripts/snippets/contents/boxing.js.coffee",
+		"/Users/msmith/Documents/vmm/app/assets/javascripts/boxing.js.coffee",
+		"/Users/msmith/Documents/vmm/app/views/locations/_location_search.html.erb",
+		"/Users/msmith/Documents/vmm/app/views/shared/_edit_image_collection.html.haml",
+		"/Users/msmith/Documents/vmm/app/assets/javascripts/snippets/a_layouts/show.js",
+		"/Users/msmith/Documents/vmm/sites/bby/app/views/location_self_serve/new_planogram_product_position_file.haml",
+		"/Users/msmith/Documents/vmm/app/views/comments/_affected_contents.html.erb",
+		"/Users/msmith/Documents/vmm/app/views/translations/_translation.html.erb",
+		"/Users/msmith/Documents/vmm/app/views/shared/_flash_messages.html.erb",
+		"/Users/msmith/Documents/vmm/sites/bby/app/views/location_self_serve/_index.haml",
+		"/Users/msmith/Documents/vmm/app/assets/javascripts/lightbox.js",
+		"/Users/msmith/Documents/vmm/app/helpers/contents_helper.rb",
+		"/Users/msmith/Documents/vmm/app/views/report/compliance_images.html.erb",
+		"/Users/msmith/Documents/vmm/app/views/boxing/_list_items.haml",
+		"/Users/msmith/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/msmith/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/msmith/Documents/vmm/test_plans/15.1.52.md",
+		"/Users/msmith/Documents/vmm/db/migrate/20160628191755_add_boxing_permissions.rb",
+		"/Users/msmith/Documents/vmm/sites/att/app/controllers/boxing_controller.rb",
+		"/Users/msmith/Documents/vmm/app/views/contents/_submenu_list.html.erb",
+		"/Users/msmith/Documents/vmm/app/assets/stylesheets/aurora/permissions.scss",
+		"/Users/msmith/Documents/vmm/app/assets/javascripts/aurora/datatable.js.coffee",
+		"/Users/msmith/Documents/vmm/app/views/boxing/_list-items.haml",
+		"/Users/msmith/Documents/vmm/sites/att/app/views/campaigns/_form.haml",
+		"/Users/msmith/Documents/vmm/db/migrate/20160518140804_add_permissions_for_new_store_kit.rb",
+		"/Users/msmith/Documents/vmm/app/views/breakoffs/_list.haml",
+		"/Users/msmith/Documents/vmm/app/views/breakoffs/_search.haml",
+		"/Users/msmith/Documents/vmm/app/controllers/static_controller.rb",
+		"/Users/msmith/Documents/vmm/app/views/layouts/main.haml",
+		"/Users/msmith/Documents/vmm/app/views/layouts/login.haml",
+		"/Users/msmith/Documents/vmm/app/helpers/application_helper.rb",
+		"/Users/msmith/Documents/vmm/app/controllers/aurora/permissions_controller.rb",
+		"/Users/msmith/Documents/vmm/app/controllers/security/permissions_controller.rb",
+		"/Users/msmith/Documents/vmm/app/views/security/permissions/_form.html.erb",
+		"/Users/msmith/Documents/vmm/app/views/aurora/permissions/edit.haml",
+		"/Users/msmith/Documents/vmm/app/views/aurora/permissions/_permissions_table.haml",
+		"/Users/msmith/Documents/vmm/app/views/aurora/permission_groups/_show.haml",
+		"/Users/msmith/Documents/vmm/app/views/aurora/permission_groups/_index.haml",
+		"/Users/msmith/Documents/vmm/app/views/aurora/roles/_index.haml",
+		"/Users/msmith/Documents/vmm/app/views/aurora/roles/_show.haml",
+		"/Users/msmith/Documents/vmm/app/assets/stylesheets/aurora/roles.scss",
+		"/Users/msmith/Documents/vmm/app/assets/stylesheets/aurora/common.scss",
+		"/Users/msmith/Documents/vmm/app/controllers/aurora/roles_controller.rb",
+		"/Users/msmith/Documents/vmm/app/controllers/aurora/permission_groups_controller.rb",
+		"/Users/msmith/Documents/vmm/app/controllers/permission_groups_controller.rb",
+		"/Users/msmith/Documents/vmm/app/controllers/a_filters_controller.rb",
+		"/Users/msmith/Documents/vmm/sites/att/app/models/content.rb",
+		"/Users/msmith/Documents/vmm/spec/models/content_spec.rb",
+		"/Users/msmith/Documents/vmm/app/models/content.rb",
+		"/Users/msmith/Documents/vmm/app/assets/stylesheets/templates/_table.scss",
+		"/Users/msmith/Documents/vmm/app/views/aurora/roles/_form.haml",
+		"/Users/msmith/Documents/vmm/sites/att/app/controllers/breakoffs_controller.rb",
+		"/Users/msmith/Documents/vmm/app/models/campaign.rb",
+		"/Users/msmith/Documents/vmm/app/views/breakoffs/index.haml",
+		"/Users/msmith/Documents/vmm/app/models/role.rb",
+		"/Users/msmith/Documents/vmm/placement/placement.rb",
+		"/Users/msmith/Documents/vmm/app/models/fixture_template_content.rb",
+		"/Users/msmith/Documents/vmm/app/models/content_placement.rb",
+		"/Users/msmith/Documents/vmm/lib/content_placementr.rb",
+		"/Users/msmith/Documents/vmm/app/controllers/a_layout_placement_groups_controller.rb",
+		"/Users/msmith/Documents/vmm/tmp/pids/server.pid",
+		"/Users/msmith/Documents/vmm/app/assets/javascripts/breakoffs.js.coffee",
+		"/Users/msmith/Documents/vmm/app/views/shared/_multi_select_list.html.erb",
+		"/Users/msmith/Documents/vmm-non-dev/vmm/.git/MERGE_MSG",
+		"/Users/msmith/Documents/vmm/app/views/shared/_navigation_section.html.erb",
+		"/Users/msmith/Documents/vmm/app/views/contents/list.html.erb",
+		"/Users/msmith/Documents/vmm/app/views/locations/_search.haml",
+		"/Users/msmith/Documents/vmm/spec/models/fixture_spec.rb",
+		"/Users/msmith/Documents/vmm/app/views/contents/update_pop_content.haml",
+		"/Users/msmith/Documents/vmm/test_plans/14.1.11.md",
+		"/Users/msmith/Documents/vmm/app/views/locations/_list.html.erb"
+	],
+	"find":
+	{
+		"height": 47.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/msmith/Documents/vmm",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			":location_search",
+			"location_search",
+			"search",
+			"location_search",
+			"minimumInputLength",
+			"2 or more",
+			"selectCount()",
+			"#locations",
+			"#locaiton",
+			"selectCount",
+			"#locations",
+			"locations",
+			"setCountPhrase",
+			"selectCountMulti",
+			"setCountPhrase",
+			"select",
+			"location_data_co",
+			"campaigns",
+			"new",
+			"clean_params",
+			"selectCount",
+			"assign",
+			"selectCount",
+			"select",
+			"selectCount",
+			"sel",
+			"selcet",
+			"selectCount",
+			"filteredCount",
+			"selectCount",
+			"select",
+			"selectCount",
+			"awesome",
+			"selectCount",
+			"select",
+			"awesome",
+			"font",
+			"filter_options",
+			"location",
+			"json",
+			"location",
+			"filter_locations",
+			"location-panel",
+			"19px",
+			"tab-text",
+			"compliance",
+			"compliance_percent",
+			"tab_plan",
+			"completion_dashboard",
+			"completion_supported",
+			"@completion",
+			"completion",
+			"tab_plan",
+			"location_panel",
+			"location-panel",
+			"tab_planogr",
+			"location_pane",
+			"tab_pl",
+			"tab_planogram",
+			"content",
+			"location-panel",
+			"spotlight_content",
+			"compliancy-box",
+			"completion",
+			"planograms_accordion",
+			"accordion",
+			"special-link",
+			"planograms_accordion_content",
+			"is_admin?",
+			"def role",
+			".exclude?",
+			".exclude",
+			"select_search_helper",
+			":exempt_roles",
+			"rbm_admin_role",
+			"real",
+			".real",
+			"role.name",
+			"@role.name",
+			"RBM",
+			"is_rbm_admin?",
+			"accessible_roles",
+			"role",
+			"is_rbm_admin?",
+			"unless",
+			":get_location",
+			"select_search_helper",
+			"except:",
+			"RBM Admin",
+			"switch_user_security_user_path",
+			"switch_user",
+			"become",
+			"indicator.gif",
+			"javascript_include",
+			"Ajax.Request",
+			"indicator_dom",
+			"ajax_indicator_dom_id",
+			"indicator",
+			"select a campaign",
+			"indicator_dom",
+			"image_container",
+			"indicator.gif",
+			"spinner_div",
+			"loadingLink",
+			"fileLoadingImage",
+			"loading.gif",
+			"ajaxStart",
+			"loading",
+			"fileLoadingImage",
+			"loading.gif",
+			"spinner",
+			"authorized",
+			"can?",
+			"can",
+			"cancan",
+			"breakoff",
+			"authorized_link_to",
+			"link_to",
+			"add_next_sibling",
+			"authorized_link_to",
+			"authori",
+			"icon_path",
+			"asset_exists",
+			"favicon",
+			"description",
+			"permission_description",
+			"description",
+			"#user-datatable"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"permission_group",
+			":permission_group",
+			"#permissions-table-inset",
+			"  ",
+			"roles",
+			"$lightblue",
+			"$darkgrey",
+			"$secondary_branding",
+			"$primary_branding",
+			"$secondary_branding",
+			"$primary_branding",
+			"widget_header",
+			"secondary_branding",
+			"primary_branding",
+			"$primary_branding",
+			"$optus_gray",
+			"$optus_blue",
+			"F6F5F4",
+			"60",
+			"jQuery",
+			"select_tag",
+			"P",
+			";P",
+			"Batman",
+			"#",
+			"^",
+			"^-^",
+			"$",
+			"span",
+			"div",
+			"span",
+			"div",
+			"$max-width"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "hello_world/Hello.elm",
+					"settings":
+					{
+						"buffer_size": 85,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								85
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Elm Language Support/Syntaxes/Elm.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "elm-todomvc/Todo.elm",
+					"settings":
+					{
+						"buffer_size": 8747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Elm Language Support/Syntaxes/Elm.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1488.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"list.js",
+				"app/views/aurora/filter_locations/list.js.erb"
+			],
+			[
+				"column_tra",
+				"app/controllers/concerns/aurora/column_translations.rb"
+			],
+			[
+				"controller/aurora",
+				"app/controllers/aurora/users_controller.rb"
+			],
+			[
+				"aurora/in",
+				"app/views/aurora/users/index.haml"
+			],
+			[
+				"routs",
+				"config/routes.rb"
+			],
+			[
+				"filter_locations",
+				"app/controllers/aurora/filter_locations_controller.rb"
+			],
+			[
+				"placem",
+				"placement/placement.rb"
+			],
+			[
+				"content",
+				"app/models/content.rb"
+			],
+			[
+				"",
+				"app/models/content_placement.rb"
+			],
+			[
+				"fixture_templa",
+				"app/models/fixture_template_content.rb"
+			],
+			[
+				"content_p",
+				"app/models/content_placement.rb"
+			],
+			[
+				"content_",
+				"lib/content_placementr.rb"
+			],
+			[
+				"a_layout_pla",
+				"app/controllers/a_layout_placement_groups_controller.rb"
+			],
+			[
+				"permission_gro",
+				"app/models/permission_group.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"add_constras",
+				"db/migrate/20151009214144_add_constraints_to_contents.rb"
+			],
+			[
+				"questionnaires_co",
+				"app/controllers/questionnaires_controller.rb"
+			],
+			[
+				"sharedcontent",
+				"app/views/shared/_content_placement.rhtml"
+			],
+			[
+				"aio_",
+				"config/aio_site_config.yml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 343.0,
+	"status_bar_visible": true
+}
