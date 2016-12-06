@@ -30,6 +30,14 @@
 				"buffer_size": 8747,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "hello_world/Text.elm",
+			"settings":
+			{
+				"buffer_size": 696,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -84,6 +92,7 @@
 	},
 	"file_history":
 	[
+		"/Users/msmith/Documents/elm-test/hello_world/skeleton.elm",
 		"/Users/msmith/Documents/vmm/app/controllers/locations_controller.rb",
 		"/Users/msmith/Documents/vmm/app/views/aurora/users/_user_location.haml",
 		"/Users/msmith/Documents/vmm/app/controllers/aurora/users_controller.rb",
@@ -210,8 +219,7 @@
 		"/Users/msmith/Documents/vmm/app/views/locations/_search.haml",
 		"/Users/msmith/Documents/vmm/spec/models/fixture_spec.rb",
 		"/Users/msmith/Documents/vmm/app/views/contents/update_pop_content.haml",
-		"/Users/msmith/Documents/vmm/test_plans/14.1.11.md",
-		"/Users/msmith/Documents/vmm/app/views/locations/_list.html.erb"
+		"/Users/msmith/Documents/vmm/test_plans/14.1.11.md"
 	],
 	"find":
 	{
@@ -219,7 +227,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 93.0,
+		"height": 0.0,
 		"where_history":
 		[
 			"/Users/msmith/Documents/vmm",
@@ -409,7 +417,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -424,12 +432,13 @@
 						"selection":
 						[
 							[
-								0,
-								85
+								85,
+								0
 							]
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
 							"syntax": "Packages/Elm Language Support/Syntaxes/Elm.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -456,12 +465,41 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
 							"syntax": "Packages/Elm Language Support/Syntaxes/Elm.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1488.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "hello_world/Text.elm",
+					"settings":
+					{
+						"buffer_size": 696,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								193,
+								193
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Elm Language Support/Syntaxes/Elm.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
